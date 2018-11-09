@@ -1,2 +1,11 @@
-# Pattern-Recognition
-This is based on the graduate course on Pattern recognition at The University of Memphis. Here I have included all the course assignments, dataset, codes and projects I have done to fulfill the requirements of the project.
+### Pattern-Recognition
+## Demonstration of the use of advanced pattern recognition techniques
+# Generation of synthetic multivariate dataset
+# Co-Variance Matrix, Distance Measures
+# PCA/ SVD, LDA
+# Bayesian Parameter Estimation
+# Parametric and Non-parametric Density Estimation
+# Classification and Clustering
+# Bayesian Decision Theory
+# Expectation Maximization (EM), Hidden Markov Model (HMM)
+
