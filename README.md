@@ -1,4 +1,3 @@
-#Pattern-Recognition
 ## Demonstration of the use of advanced pattern recognition techniques
 ### Generation of synthetic multivariate dataset
 ### Co-Variance Matrix, Distance Measures
@@ -8,4 +7,4 @@
 ### Classification and Clustering
 ### Bayesian Decision Theory
 ### Expectation Maximization (EM), Hidden Markov Model (HMM)
-
+All codes have been written by myself to fulfill the requirement of Graduate course in Pattern recognition at UofM
