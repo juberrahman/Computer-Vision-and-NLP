@@ -9,7 +9,7 @@
 ### Expectation Maximization (EM), Hidden Markov Model (HMM)
 All codes have been written by myself.
 
-Reference:
+References:
 1. Pattern Reconition Graduate Course offered by Dr. M Yeasin at The University of Memphis
 2. Duda, Richard O., Peter E. Hart, and David G. Stork. Pattern classification. John Wiley & Sons, 2012.
 3. Fukunaga, Keinosuke. Introduction to statistical pattern recognition. Elsevier, 2013.
