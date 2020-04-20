@@ -1,5 +1,5 @@
 ## Discriminant Function
-## Bayesian Regression
+## Hidden Markov Model
 ## Fuzzy Logic
 ## Adaptive Neuro Fuzzy Inference System
 ## Clustering
