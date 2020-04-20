@@ -1,1 +1,1 @@
-Estimating damage or impact of future cyclones with bayesian regression model using real-world dataset built from the scratch. 
+Estimating damage or impact of future cyclones with bayesian regression model using real-world dataset built from the scratch. The project was done for World Food Programme (WFP) in colloboration with 40 scientists around the world.  
