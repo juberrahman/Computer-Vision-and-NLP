@@ -1,13 +1,17 @@
-## Demonstration of the use of advanced pattern recognition techniques
-### Generation of synthetic multivariate dataset
-### Co-Variance Matrix, Distance Measures
-### PCA/ SVD, LDA
-### Bayesian Parameter Estimation
-### Parametric and Non-parametric Density Estimation
-### Classification and Clustering
-### Bayesian Decision Theory
-### Expectation Maximization (EM), Hidden Markov Model (HMM)
-All codes have been written by myself.
+## Demonstration of the use of advanced pattern recognition techniques for image and time series data
+Topics included are as below:
+* Object Detection
+* Biomedical image analysis
+* Image classification with Deep learning models
+* Generation of synthetic multivariate dataset
+* Co-Variance Matrix, Distance Measures
+* Dimension reduction: PCA/ SVD, LDA
+* Bayesian Parameter Estimation
+* Parametric and Non-parametric Density Estimation
+* Classification and Clustering
+* Expectation Maximization (EM)
+* Hidden Markov Model (HMM)
+* Bayesian Inference
 
 References:
 1. Pattern Reconition Graduate Course offered by Dr. M Yeasin at The University of Memphis
