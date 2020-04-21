@@ -1,0 +1,1 @@
+This notebook demonstrates the use of Principal Component Analysis and Linear Discriminent Analysis in image classification. It shows how a combination of both may help in achieving better performance.
