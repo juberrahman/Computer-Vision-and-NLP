@@ -1,4 +1,4 @@
-## Demonstration of the use of advanced pattern recognition techniques for image and time series data
+### Demonstration of the use of advanced pattern recognition techniques for image and time series data
 Topics included are as below:
 * Object Detection
 * Biomedical image analysis
