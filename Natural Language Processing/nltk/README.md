@@ -1,0 +1,1 @@
+In this project I used popular libraries i.e. NLTK, Beautiful soup, and requests for parsing text data from a webpge, processing the text data  and identify the most frequent word in the text. I used the popular novel Moby Dick as the input. This was done as part of DataCamp NLP Skill Track. 

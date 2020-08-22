@@ -1,0 +1,1 @@
+I have written this script to create a “word cloud” from a text. The script process the text, remove punctuation, count the frequencies, and ignore uninteresting or irrelevant words. This was done as part of Google Crash Course on Python.
