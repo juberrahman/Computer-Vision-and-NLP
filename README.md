@@ -1,4 +1,5 @@
 ### Demonstration of the use of advanced pattern recognition techniques for image, text and time series data
+
 Topics included are as below:
 * Object Detection and Biomedical image analysis.
 * Natural language processing with NLTK, Spacy, Gensim, Polyglot etc.
@@ -10,6 +11,8 @@ Topics included are as below:
 * Parametric and Non-parametric Density Estimation
 * Classification and Clustering
 * Expectation Maximization (EM), Hidden Markov Model (HMM), and Bayesian Inference.
+
+N.B. My work on Computer Vision and NLP are not limited to these. My advanced works are reported in my publications.
 
 References:
 1. Pattern Reconition Graduate Course offered by Dr. M Yeasin at The University of Memphis
