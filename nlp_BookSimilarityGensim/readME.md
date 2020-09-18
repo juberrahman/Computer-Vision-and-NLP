@@ -4,6 +4,8 @@ Libraries/ tools:
 
 * Gensim
 
+* Bag-Of-Words
+
 * Tf-Idf
 
 * Similaratiy Matrix
